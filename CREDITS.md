@@ -21,7 +21,7 @@ and license (hackathon rule: only free-to-use resources).
 | Resource | Used for | Source | License |
 | --- | --- | --- | --- |
 | `personaje_*/` character sheets (`diseño edwin.png`, `character-spritesheet (1).png`, `andres.png`, `jeissa.png`, `character-spritesheet.png`) | The five astronauts | LPC character generator (Liberated Pixel Cup) - TODO: add exact link | CC-BY-SA 3.0 / GPL 3.0 (LPC) - TODO: confirm and list authors |
-| `german-shephard-full-sprite-sheet-x300.png` | Robot dogs on Yuki | TODO: add link | TODO: confirm license |
+| `german-shephard-full-sprite-sheet-x300.png` | Robot dogs on Yuki | TODO: https://kittensoverboard.itch.io/pixel-companion-german-shephard | TODO: confirm license |
 | `assets/planets/Planeta_*.png` | Planets in the intro and chapter cards (Villa Caracas image is used for Yuki) | Made by the team - TODO: confirm | TODO |
 | `assets/tilesets/neo_zero/*` (Neo Zero tileset v1.0 and v3.0 demo "Free") | "Se fue la luz" street map on Yuki | TODO: add link and author | TODO: confirm license of the free pack |
 | `assets/tilesets/zero/floor.png`, `rocks.png` | Zero: grey stone floor and floating rocks | TODO: add link and author | TODO: confirm license |
