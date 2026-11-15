@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://bg4tp6fh4384c"]
+
+[ext_resource type="PackedScene" uid="uid://4je7j1ahp4sl" path="res://personaje_5_clon/clon.tscn" id="1_0xm2m"]
+[ext_resource type="Texture2D" uid="uid://bc5rx82pcet41" path="res://icon.svg" id="2_h2yge"]
+
+[node name="Node2D" type="Node2D" unique_id=1074177676]
+
+[node name="CharacterBody2D" parent="." unique_id=1714160518 instance=ExtResource("1_0xm2m")]
+
+[node name="Icon" type="Sprite2D" parent="." unique_id=2139054756 groups=["aliens"]]
+position = Vector2(164, 89)
+texture = ExtResource("2_h2yge")
+
+[editable path="CharacterBody2D"]

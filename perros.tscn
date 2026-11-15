@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://n28mnx0vype8"]
+
+[ext_resource type="PackedScene" uid="uid://bevdskqfjb5mx" path="res://personaje_perros/perros.tscn" id="1_rwdh2"]
+
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1638704011]
+
+[node name="CharacterBody2D" parent="." unique_id=1505678005 instance=ExtResource("1_rwdh2")]
+
+[node name="Animated" parent="CharacterBody2D" index="0" unique_id=294694136]
+animation = &"correr"
+frame = 0
+frame_progress = 0.0
+
+[editable path="CharacterBody2D"]

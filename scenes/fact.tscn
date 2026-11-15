@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scenes/fact.gd" id="1_fact"]
+
+[node name="Fact" type="Node2D"]
+script = ExtResource("1_fact")
